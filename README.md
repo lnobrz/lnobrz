@@ -7,17 +7,12 @@
 - 🌱 I’m currently learning C#
 - 📫 contact-me at lucasnobre37@outlook.com and connect with me at www.linkedin.com/in/lucas-nobrz
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnobrz&show_icons=true&theme=dracula&hide_border=true&&count_private=true&include_all_commits=true" />
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnobrz&show_icons=true&theme=dracula&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnobrz&layout=compact)](https://github.com/lnobrz/github-readme-stats)
-
-<a href="https://github.com/lnobrz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnobrz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/lnobrz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnobrz&repo=convoychat" />
-</a>
-
+  
+ </div>
 <!---
 lnobrz/lnobrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
