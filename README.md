@@ -11,6 +11,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnobrz&layout=compact)](https://github.com/lnobrz/github-readme-stats)
 
+<a href="https://github.com/lnobrz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnobrz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/lnobrz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lnobrz&repo=convoychat" />
+</a>
+
 <!---
 lnobrz/lnobrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
