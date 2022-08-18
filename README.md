@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C#
 - 📫 contact-me at lucasnobre37@outlook.com and connect with me at www.linkedin.com/in/lucas-nobrz
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnobrzGapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnobrz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 lnobrz/lnobrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
