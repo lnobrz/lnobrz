@@ -1,4 +1,4 @@
-- <h1>👋🏻 Hey, I'm Lucas Nobre</h1>
+- 👋🏻 Hey, I'm Lucas Nobre
 - 📍 I'm from Fortaleza, Ceará - Brasil
 - 👨🏻‍💻 I'm a Frontend Web Developer Intern at Instituto Atlântico
 - 💻 I work with Typescript, React and Styled Components
