@@ -1,5 +1,5 @@
 <h1>Lucas Nobre 👨🏻‍💻</h1>
-- Works with Typescript, Javascript, ReactJS, NextJS, Styled Components, SASS, Jest, React Testing Library and Enzyme</br>
+- Working with Typescript, Javascript, ReactJS, NextJS, Styled Components, SASS, Jest, React Testing Library and Enzyme</br>
 - Knowlege in Bootstrap, Tailwind CSS, NodeJS, MySQL and MongoDB</br>
 - Currently learning Java and Spring</br></br></br>
 
